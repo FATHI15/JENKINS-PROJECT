@@ -6,7 +6,6 @@ void sum(int a[],int n)
 	{
 		sum=sum+a[i];
 	}
-       
-		printf("\nsum  of an array is %d :\t",sum);
-	
+       		printf("\nsum  of an array is %d :\t",sum);
+			
 }

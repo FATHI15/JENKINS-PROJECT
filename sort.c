@@ -16,5 +16,5 @@ void sort(int a[],int n)
    }
   printf("sorted elements are");
   for(i=0;i<n;i++)
-   printf("%d",a[i]);
+   printf("%d/t",a[i]);
 }
